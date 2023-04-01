@@ -2,3 +2,12 @@ h1 {
     color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+li {
+    list-style: none;
+}
+
+a {
+    color: green;
+    text-decoration: underline;
+}
